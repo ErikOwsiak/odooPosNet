@@ -1,1 +1,1 @@
-# odooPosNet
+# odooPOSNET
